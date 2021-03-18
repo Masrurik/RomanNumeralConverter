@@ -7,6 +7,7 @@ namespace RomanNumeralConverter
         static void Main(string[] args)
         {
             Console.Write("please choose a number from 1 to 10:");
+            //Create variable
             string num=Console.ReadLine();
             switch (num)
             {
